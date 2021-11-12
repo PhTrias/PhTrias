@@ -1,6 +1,4 @@
 # <div align="center">😎 Seja Bem-Vindo 😎</div>
-
-![Snake animation](https://github.com/PhTrias/PhTrias/blob/output/github-contribution-grid-snake.svg)
   
 <div align="center">
   <a href="https://github.com/rafaballerini">
@@ -11,8 +9,11 @@
   <img margim="30em" align="center" alt="PH-Ruby" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-plain.svg">
   <img align="center" alt="PH-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="PH-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
 </div>
   
+  ##
+  ![Snake animation](https://github.com/PhTrias/PhTrias/blob/output/github-contribution-grid-snake.svg)
   ##
  
 <div align="center"> 
