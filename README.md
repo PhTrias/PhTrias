@@ -1,5 +1,18 @@
-# <div align="center">😎 Seja Bem-Vindo 😎</div>
+
+##### <div class="row">
+# <div align="center"> 😄 Welcome!</div>
+### <div align="center">- 👨‍💻 Software Developer 👨‍💻 -</div>
+### <div align="center">- 🐶 I love animals, I even do Vet. 😸 -</div>
+### <div align="center">- 🇧🇷 I live in São Paulo, Brazil. 🇧🇷 -</div>
+### <div align="center">- 👽 I love the space too! What do you think about out there? 👽 -</div>
   
+##  
+  
+  <img src="https://images.unsplash.com/photo-1592071666760-421c34665779?ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&ixlib=rb-1.2.1&auto=format&fit=crop&w=1664&q=80" alt="Github profile image" height="300" width="1000">
+</div>
+
+##
+
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=PhTrias&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
